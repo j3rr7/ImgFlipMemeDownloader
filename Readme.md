@@ -1,4 +1,4 @@
-# No Title
+# IMGFLIP
 
 Simple Meme Downloader using Python 3 and IMGFlip API
 
@@ -14,7 +14,7 @@ pip install json
 
 ## Credit
 
-* [IMGFLIP](https://api.imgflip.com/?ref=public-apis) - The API used
+* [IMGFLIP](https://api.imgflip.com/?ref=public-apis) - The API I used
 
 
 ## Running the code
